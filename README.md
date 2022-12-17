@@ -34,6 +34,10 @@
         <span><strong>C++</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
+	<td width="25%" align="center">
+          <span><strong>HTML</strong></span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
      </tr>
      <tr valign="top">
         <td width="25%" align="center">
