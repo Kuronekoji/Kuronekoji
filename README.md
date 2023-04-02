@@ -2,14 +2,14 @@
 <div align="center">
 	<br>
   
-[![Gmail Badge](https://img.shields.io/badge/-scyllainbox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scyllainbox@gmail.com)](mailto:scyllainbox@gmail.com) [![Discord Badge](https://img.shields.io/badge/Discord-🎄%20Scylla%20🎄%230258-blue)](https://discord.com/users/🎄%20Scylla%20🎄#0258) [![Codewars Badge](https://www.codewars.com/users/ScyllaCode/badges/micro)](https://www.codewars.com/users/ScyllaCode)
+[![Discord Badge](https://img.shields.io/badge/Discord-🎄%20Scylla%20🎄%230258-blue)](https://discord.com/users/🎄%20Scylla%20🎄#0258) [![Codewars Badge](https://www.codewars.com/users/ScyllaCode/badges/micro)](https://www.codewars.com/users/ScyllaCode)
  </div>
   <div align="center">
 	<br>
 	<img src="https://64.media.tumblr.com/b748b9e75ded478ebdab999621cee6b5/f9ded55bf6b7f505-e8/s640x960/7eef491b7a15903d6cb26cb83c81d45b80682f14.gifv" width="600" height="338">
 </div>
 
-# I am Yorukami! Welcome to anyone who finds this page!
+# I am Kuronekoji! Welcome to anyone who finds this page!
 
 -  I have been focusing on Python recently, with some machine learning and image recognition with OpenCV.
 -  I also know Java as I have taken it in Highschool and College now, not my favorite language but probably my most profeccient.
@@ -55,8 +55,8 @@
   </tbody>
 </table>
 
-![Yorukami's github stats](https://github-readme-stats.vercel.app/api/?username=yorukamii&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Kuronekoji's github stats](https://github-readme-stats.vercel.app/api/?username=kuronekoji&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yorukamii.yorukamii)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kuronekoji.kuronekoji)
 
