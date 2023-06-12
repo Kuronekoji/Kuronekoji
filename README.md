@@ -2,7 +2,7 @@
 <div align="center">
 	<br>
   
-[![Discord Badge](https://img.shields.io/badge/Discord-🎄%20Scylla%20🎄%230258-blue)](https://discord.com/users/🎄%20Scylla%20🎄#0258) [![Codewars Badge](https://www.codewars.com/users/ScyllaCode/badges/micro)](https://www.codewars.com/users/ScyllaCode)
+[![Discord Badge](https://img.shields.io/badge/Discord-%20anilist.co%20-blue)](https://discordapp.com/users/276891757462159362) [![Codewars Badge](https://www.codewars.com/users/ScyllaCode/badges/micro)](https://www.codewars.com/users/ScyllaCode)
  </div>
   <div align="center">
 	<br>
