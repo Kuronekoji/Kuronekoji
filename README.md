@@ -6,7 +6,7 @@
  </div>
   <div align="center">
 	<br>
-	<img src="https://media.tenor.com/OfnD7-s8iEEAAAAC/gintoki-gintoki-sakata.gif" width="600" height="338">
+	<img src="https://media.tenor.com/OfnD7-s8iEEAAAAC/gintoki-gintoki-sakata.gif" width="500" height="375">
 </div>
 
 # I am Kuronekoji! Welcome to anyone who finds this page!
